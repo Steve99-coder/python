@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/steve/Desktop/Week4/Watchlist/virtual/bin/python3.8"
+}
